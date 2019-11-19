@@ -20,7 +20,8 @@ module XMPR
   # Namespace shortcuts, and fallbacks for undeclared namespaces.
   NAMESPACES = {
     "aux" => "http://ns.adobe.com/exif/1.0/aux/",
-    "crs" => "http://ns.adobe.com/camera-raw-settings/1.0/",
+    "crs" => "http://ns.adobe.com/camera-raw-settings/1.0/",  
+    "cc" => "http://creativecommons.org/ns#",
     "dc" => "http://purl.org/dc/elements/1.1/",
     "exif" => "http://ns.adobe.com/exif/1.0/",
     "Iptc4xmpCore" => "http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/",
