@@ -27,6 +27,7 @@ xmp["dc", "title"] # => "Amazing Photo" (same thing)
 The following namespaces have shortcuts:
 
  * `aux` — `http://ns.adobe.com/exif/1.0/aux/`
+ * `cc` — `http://creativecommons.org/ns#` ([Creative Commons](http://creativecommons.org))
  * `crs` — `http://ns.adobe.com/camera-raw-settings/1.0/`
  * `dc` — `http://purl.org/dc/elements/1.1/` ([Dublin Core](http://dublincore.org/))
  * `exif` — `http://ns.adobe.com/exif/1.0/`
