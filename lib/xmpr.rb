@@ -100,8 +100,6 @@ module XMPR
         alt_value(alt_element, lang: lang)
       elsif array_element = element.xpath("./rdf:Bag | ./rdf:Seq", NAMESPACES).first
         array_value(array_element)
-      else
-        raise "Don't know how to handle:\n#{element}"
       end
     end
 
