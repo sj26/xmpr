@@ -54,10 +54,7 @@ Refactored from [XMP][xmp-gem]. Inspired by [ExifTool][exiftool].
 
 ## References
 
-* XMP specification
-  ([Part 1](http://www.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart1.pdf),
-  [Part 2](http://www.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart2.pdf),
-  [Part 3](http://www.adobe.com/content/dam/Adobe/en/devnet/xmp/pdfs/XMPSpecificationPart3.pdf))
+* [XMP specification](https://www.adobe.com/devnet/xmp.html)
 
 ## License
 
