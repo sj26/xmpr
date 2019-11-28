@@ -5,6 +5,7 @@
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
     xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM ='http://ns.adobe.com/xap/1.0/mm/'
     Iptc4xmpCore:Location="Miejsce"
     photoshop:Category="Kategoria">
    <dc:title>
@@ -27,6 +28,7 @@
    </dc:creator>
   </rdf:Description>
  </rdf:RDF>
+ <xmpMM:DerivedFrom stRef:documentID ='1E779B3F7210FAE000FF94666EF3A444' stRef:originalDocumentID ='1E779B3F7210FAE000FF94666EF3A444'></xmpMM:DerivedFrom>
 </x:xmpmeta>
 
 
