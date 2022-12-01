@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://github.com/sj26/xmpr"
   spec.license = "MIT"
 
-  spec.required_ruby_version = "~> 2.1"
+  spec.required_ruby_version = ">= 2.1"
 
   spec.files = Dir["README.md", "LICENSE", "lib/**/*"]
   spec.test_files = Dir["test/**/*"]
