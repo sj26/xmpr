@@ -11,6 +11,14 @@ Gem::Specification.new do |spec|
   spec.homepage = "https://github.com/sj26/xmpr"
   spec.license = "MIT"
 
+  spec.metadata = {
+    "bug_tracker_uri" => "#{spec.homepage}/issues",
+    "changelog_uri" => "#{spec.homepage}/releases",
+    "documentation_uri" => "https://www.rubydoc.info/gems/#{spec.name}/#{spec.version}",
+    "homepage_uri" => spec.homepage,
+    "source_code_uri" => "#{spec.homepage}/tree/v#{spec.version}"
+  }
+
   spec.required_ruby_version = ">= 2.1"
 
   spec.files = Dir["README.md", "LICENSE", "lib/**/*"]
